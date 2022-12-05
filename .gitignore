@@ -1,3 +1,13 @@
+python_data.*
+.jupyterlite.doit.db
+_output
+**/Lecture*/media/*
+**/Lab*/media/*
+gradebook.db
+**/Lab*/main*.zip
+**/Lab*/main.py
+.OTTER_LOG
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
