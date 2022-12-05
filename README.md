@@ -16,6 +16,14 @@ jupyter:
 # Introduction to Computer Programming
 
 
+[![Jupyter Lite][lite-badge]](https://dive4dec.github.io/cs1302/lab/?path=README.ipynb)
+
+[lite-badge]: https://jupyterlite.rtfd.io/en/latest/_static/badge.svg
+
+<!-- #region tags=[] -->
+## Table of Content
+<!-- #endregion -->
+
 ### Lab 0
 
 
@@ -156,3 +164,39 @@ jupyter:
 
 [Review](Review.ipynb)
 
+
+<!-- #region tags=[] -->
+## Run in Docker
+<!-- #endregion -->
+
+### Using VSCode Dev Containers
+
+
+- Install and run [docker](https://docs.docker.com/get-started/#download-and-install-docker).
+- Install and run [VSCode](https://code.visualstudio.com/).
+  - Install [Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) extension for VSCode.
+  - Run `Dev Containers: Clone Repository in Named Container Volume...`
+      - repository: https://github.com/dive4dec/cs1302
+      - volume name: cs1302-remote-containers
+      - target folder name: cs1302
+
+
+### Using nbgitpuller
+
+
+- To run locally on your computer with permanent storage:
+  - Install [docker](https://docs.docker.com/get-started/#download-and-install-docker).
+  - Run the docker in a terminal from a working directory of your choice:  
+      ```markdown
+      docker run --rm -p 8888:8888 \
+               -v "${PWD}":/home/jovyan \
+               chungc/cs1302nb:0.0.2b \
+               start-notebook.sh --NotebookApp.token=''
+      ```
+    - It may take a couple minutes to run for the first time as it needs to download the docker image. Subsequent run should be fast.
+    - Port 8888 should be free for use. Otherwise, change it to a free port on your computer with `-p {free port}:8888`.
+  - Pull the notebooks from this repo in a web browser:  
+      <http://localhost:8888/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdive4dec%2Fcs1302&urlpath=lab%2Ftree%2Fcs1302%2FREADME.ipynb&branch=master>
+    - You can work on the notebooks under the `cs1302` subfolder. Clicking the above link again will automatically pull and merge changes from the repo, without overwritting your changes.
+    - To finish, stop the notebook server by pressing `Control-C` in the terminal that runs the docker.
+    - To restart, run the docker command again from the same working directory. You files should still be under the `deepdive` subfolder.
