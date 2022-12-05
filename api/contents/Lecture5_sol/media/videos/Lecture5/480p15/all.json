@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.130134Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.190247Z",
+      "mimetype": "video/mp4",
+      "name": "HelloWorld.mp4",
+      "path": "Lecture5_sol/media/videos/Lecture5/480p15/HelloWorld.mp4",
+      "size": 8050,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.137136Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.188242Z",
+      "mimetype": "video/mp4",
+      "name": "Test.mp4",
+      "path": "Lecture5_sol/media/videos/Lecture5/480p15/Test.mp4",
+      "size": 18453,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.135133Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.135133Z",
+  "mimetype": null,
+  "name": "480p15",
+  "path": "Lecture5_sol/media/videos/Lecture5/480p15",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

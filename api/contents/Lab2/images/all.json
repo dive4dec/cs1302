@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2022-12-05T04:24:44.939419Z",
+      "created": "2022-12-05T09:51:40.707132Z",
       "format": null,
       "last_modified": "2022-12-05T03:43:39.669585Z",
       "mimetype": "image/svg+xml",
@@ -14,7 +14,7 @@
     },
     {
       "content": null,
-      "created": "2022-12-05T04:24:44.944419Z",
+      "created": "2022-12-05T09:51:40.712132Z",
       "format": null,
       "last_modified": "2022-12-05T03:43:39.674581Z",
       "mimetype": "image/svg+xml",
@@ -26,7 +26,7 @@
     },
     {
       "content": null,
-      "created": "2022-12-05T04:24:44.949420Z",
+      "created": "2022-12-05T09:51:40.717132Z",
       "format": null,
       "last_modified": "2022-12-05T03:43:39.676577Z",
       "mimetype": "image/svg+xml",
@@ -38,7 +38,7 @@
     },
     {
       "content": null,
-      "created": "2022-12-05T04:24:44.954426Z",
+      "created": "2022-12-05T09:51:40.722132Z",
       "format": null,
       "last_modified": "2022-12-05T03:43:39.672576Z",
       "mimetype": "image/svg+xml",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-12-05T04:24:44.953416Z",
+  "created": "2022-12-05T09:51:40.720134Z",
   "format": "json",
-  "last_modified": "2022-12-05T04:24:44.953416Z",
+  "last_modified": "2022-12-05T09:51:40.720134Z",
   "mimetype": null,
   "name": "images",
   "path": "Lab2/images",

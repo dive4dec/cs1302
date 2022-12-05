@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.064136Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.209253Z",
+      "mimetype": "video/mp4",
+      "name": "HelloWorld@2022-10-07@03-46-34.mp4",
+      "path": "Lecture5_sol/media/jupyter/HelloWorld@2022-10-07@03-46-34.mp4",
+      "size": 8050,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.071133Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.212242Z",
+      "mimetype": "video/mp4",
+      "name": "HelloWorld@2022-10-07@03-52-37.mp4",
+      "path": "Lecture5_sol/media/jupyter/HelloWorld@2022-10-07@03-52-37.mp4",
+      "size": 8050,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.078131Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.214246Z",
+      "mimetype": "video/mp4",
+      "name": "HelloWorld@2022-10-07@03-52-54.mp4",
+      "path": "Lecture5_sol/media/jupyter/HelloWorld@2022-10-07@03-52-54.mp4",
+      "size": 8050,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.084135Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.200242Z",
+      "mimetype": "video/mp4",
+      "name": "HelloWorld@2022-10-08@01-22-20.mp4",
+      "path": "Lecture5_sol/media/jupyter/HelloWorld@2022-10-08@01-22-20.mp4",
+      "size": 8050,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.091132Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.205242Z",
+      "mimetype": "video/mp4",
+      "name": "HelloWorld@2022-10-10@10-19-39.mp4",
+      "path": "Lecture5_sol/media/jupyter/HelloWorld@2022-10-10@10-19-39.mp4",
+      "size": 8050,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.098131Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.217241Z",
+      "mimetype": "video/mp4",
+      "name": "Test@2022-10-07@21-23-18.mp4",
+      "path": "Lecture5_sol/media/jupyter/Test@2022-10-07@21-23-18.mp4",
+      "size": 18453,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.105131Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.202246Z",
+      "mimetype": "video/mp4",
+      "name": "Test@2022-10-08@10-02-41.mp4",
+      "path": "Lecture5_sol/media/jupyter/Test@2022-10-08@10-02-41.mp4",
+      "size": 18453,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.112131Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.207241Z",
+      "mimetype": "video/mp4",
+      "name": "Test@2022-10-10@10-19-40.mp4",
+      "path": "Lecture5_sol/media/jupyter/Test@2022-10-10@10-19-40.mp4",
+      "size": 18453,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.110132Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.110132Z",
+  "mimetype": null,
+  "name": "jupyter",
+  "path": "Lecture5_sol/media/jupyter",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

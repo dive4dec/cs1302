@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2022-12-05T04:24:44.978419Z",
+      "created": "2022-12-05T09:51:40.744132Z",
       "format": null,
       "last_modified": "2022-12-05T03:43:39.687581Z",
       "mimetype": null,
@@ -14,7 +14,7 @@
     },
     {
       "content": null,
-      "created": "2022-12-05T04:24:44.984419Z",
+      "created": "2022-12-05T09:51:40.748142Z",
       "format": null,
       "last_modified": "2022-12-05T03:43:39.689584Z",
       "mimetype": "text/plain",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-12-05T04:24:44.983415Z",
+  "created": "2022-12-05T09:51:40.747133Z",
   "format": "json",
-  "last_modified": "2022-12-05T04:24:44.983415Z",
+  "last_modified": "2022-12-05T09:51:40.747133Z",
   "mimetype": null,
   "name": "Lab3a",
   "path": "Lab3a",

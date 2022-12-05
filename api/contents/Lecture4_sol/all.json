@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.993135Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.577244Z",
+      "mimetype": null,
+      "name": "Using Functions.ipynb",
+      "path": "Lecture4_sol/Using Functions.ipynb",
+      "size": 218972,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.999134Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.580240Z",
+      "mimetype": null,
+      "name": "Writing Functions.ipynb",
+      "path": "Lecture4_sol/Writing Functions.ipynb",
+      "size": 21257,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.004136Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.590247Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "Lecture4_sol/requirements.txt",
+      "size": 22,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.003131Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.003131Z",
+  "mimetype": null,
+  "name": "Lecture4_sol",
+  "path": "Lecture4_sol",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.215134Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:05.697245Z",
+      "mimetype": null,
+      "name": "Operations on Sequences.ipynb",
+      "path": "Lecture7_sol/Operations on Sequences.ipynb",
+      "size": 30016,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.222132Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:05.699249Z",
+      "mimetype": null,
+      "name": "Sequence Types.ipynb",
+      "path": "Lecture7_sol/Sequence Types.ipynb",
+      "size": 49791,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.227134Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:05.709253Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "Lecture7_sol/requirements.txt",
+      "size": 22,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.226131Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.226131Z",
+  "mimetype": null,
+  "name": "Lecture7_sol",
+  "path": "Lecture7_sol",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

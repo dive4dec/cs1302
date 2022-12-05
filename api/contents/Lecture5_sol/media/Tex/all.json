@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.040135Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.170247Z",
+      "mimetype": null,
+      "name": "26edbed0c99fc3d3.aux",
+      "path": "Lecture5_sol/media/Tex/26edbed0c99fc3d3.aux",
+      "size": 90,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.046133Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.172249Z",
+      "mimetype": "application/x-dvi",
+      "name": "26edbed0c99fc3d3.dvi",
+      "path": "Lecture5_sol/media/Tex/26edbed0c99fc3d3.dvi",
+      "size": 1816,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.051148Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.168243Z",
+      "mimetype": null,
+      "name": "26edbed0c99fc3d3.log",
+      "path": "Lecture5_sol/media/Tex/26edbed0c99fc3d3.log",
+      "size": 7855,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.057136Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.166242Z",
+      "mimetype": "text/x-tex",
+      "name": "26edbed0c99fc3d3.tex",
+      "path": "Lecture5_sol/media/Tex/26edbed0c99fc3d3.tex",
+      "size": 202,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.056131Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.056131Z",
+  "mimetype": null,
+  "name": "Tex",
+  "path": "Lecture5_sol/media/Tex",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

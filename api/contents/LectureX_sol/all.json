@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.297130Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:11:40.661259Z",
+      "mimetype": null,
+      "name": "Review.ipynb",
+      "path": "LectureX_sol/Review.ipynb",
+      "size": 56186,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.302134Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:11:40.664259Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "LectureX_sol/requirements.txt",
+      "size": 35,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.301130Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.301130Z",
+  "mimetype": null,
+  "name": "LectureX_sol",
+  "path": "LectureX_sol",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

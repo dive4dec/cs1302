@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.135133Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:51:41.135133Z",
+      "mimetype": null,
+      "name": "480p15",
+      "path": "Lecture5_sol/media/videos/Lecture5/480p15",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.127131Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.127131Z",
+  "mimetype": null,
+  "name": "Lecture5",
+  "path": "Lecture5_sol/media/videos/Lecture5",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

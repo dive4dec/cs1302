@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.951136Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.053246Z",
+      "mimetype": null,
+      "name": "Conditional Execution.ipynb",
+      "path": "Lecture3_sol/Conditional Execution.ipynb",
+      "size": 66086,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.957135Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.056242Z",
+      "mimetype": null,
+      "name": "Iteration.ipynb",
+      "path": "Lecture3_sol/Iteration.ipynb",
+      "size": 62947,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.962140Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.047240Z",
+      "mimetype": "text/x-python",
+      "name": "flowcharts.py",
+      "path": "Lecture3_sol/flowcharts.py",
+      "size": 1295,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.967140Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.045237Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "Lecture3_sol/requirements.txt",
+      "size": 22,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:40.966132Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:40.966132Z",
+  "mimetype": null,
+  "name": "Lecture3_sol",
+  "path": "Lecture3_sol",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

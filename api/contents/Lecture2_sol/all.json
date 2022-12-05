@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.893132Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.519240Z",
+      "mimetype": "text/x-c++src",
+      "name": "456.cpp",
+      "path": "Lecture2_sol/456.cpp",
+      "size": 80,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.899132Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.522236Z",
+      "mimetype": "text/x-java",
+      "name": "456.java",
+      "path": "Lecture2_sol/456.java",
+      "size": 114,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.905136Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.526239Z",
+      "mimetype": null,
+      "name": "Expressions and Arithmetic.ipynb",
+      "path": "Lecture2_sol/Expressions and Arithmetic.ipynb",
+      "size": 18799,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.913140Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.530241Z",
+      "mimetype": null,
+      "name": "Values and Variables.ipynb",
+      "path": "Lecture2_sol/Values and Variables.ipynb",
+      "size": 178222,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:40.921132Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:07.524236Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "Lecture2_sol/requirements.txt",
+      "size": 22,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:40.919132Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:40.919132Z",
+  "mimetype": null,
+  "name": "Lecture2_sol",
+  "path": "Lecture2_sol",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

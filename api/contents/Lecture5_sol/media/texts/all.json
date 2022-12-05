@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-05T09:51:41.120131Z",
+      "format": null,
+      "last_modified": "2022-12-05T09:12:06.195248Z",
+      "mimetype": "image/svg+xml",
+      "name": "b9504d25e4d66945.svg",
+      "path": "Lecture5_sol/media/texts/b9504d25e4d66945.svg",
+      "size": 7768,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-05T09:51:41.118132Z",
+  "format": "json",
+  "last_modified": "2022-12-05T09:51:41.118132Z",
+  "mimetype": null,
+  "name": "texts",
+  "path": "Lecture5_sol/media/texts",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
